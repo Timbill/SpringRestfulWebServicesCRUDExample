@@ -30,6 +30,7 @@ public class CountryService {
    Country chinaCountry=new Country(4, "China",20000);
    Country nepalCountry=new Country(3, "Nepal",8000);
    Country bhutanCountry=new Country(2, "Bhutan",7000);
+   Country chileCountry=new Country(5, "Chile",20);
 
 
    countryIdMap.put(1,canadaCountry);
