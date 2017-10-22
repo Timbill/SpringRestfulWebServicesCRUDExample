@@ -52,8 +52,8 @@ public class JTest {
 	   ctry = cs.getCountry(4).getCountryName();
 	   System.out.println("ctry = " + ctry);
        assertEquals("China", ctry);
-       
-	   ctry = cs.getCountry(5).getCountryName();
+//      added test  
+	   ctry = cs.getCountry(6).getCountryName();
 	   System.out.println("ctry = " + ctry);
        assertEquals("Chile", ctry);
    }
