@@ -37,6 +37,7 @@ public class CountryService {
    countryIdMap.put(4,chinaCountry);
    countryIdMap.put(3,nepalCountry);
    countryIdMap.put(2,bhutanCountry);
+   countryIdMap.put(5,chileCountry);
   }
  }
 
