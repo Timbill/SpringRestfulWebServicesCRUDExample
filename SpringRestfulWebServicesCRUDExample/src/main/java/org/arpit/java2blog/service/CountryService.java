@@ -26,7 +26,7 @@ public class CountryService {
   {
    countryIdMap=new HashMap<Integer,Country>();
   // Creating some objects of Country while initializing
-   Country canadaCountry=new Country(1, "Canada",30);
+   Country canadaCountry=new Country(1, "Canad",30);
    Country chinaCountry=new Country(4, "China",20000);
    Country nepalCountry=new Country(3, "Nepal",8000);
    Country bhutanCountry=new Country(2, "Bhutan",7000);
