@@ -55,6 +55,6 @@ public class JTest {
 //      added test  
 //	   ctry = cs.getCountry(5).getCountryName();
 //	   System.out.println("ctry = " + ctry);
-//     assertEquals("Chile", ctry);
+//	   assertEquals("Chile", ctry);
    }
 }
