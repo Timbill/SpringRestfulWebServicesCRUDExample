@@ -1,5 +1,5 @@
 package org.arpit.java2blog.bean;
-
+//
 public class Country{
 //	
 	int id;
